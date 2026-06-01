@@ -12,4 +12,4 @@ This lightweight tool uses Google AI Studio to organize and format your text int
 3. Get a neatly formatted version instantly.
 
 🚀 Try it now:
-[Live Preview]( [https://ai.studio/apps/1640d3d4-4c0d-46c1-949a-da43cead8156](https://biditext-rearrangeable.vercel.app/))
+[Live Preview]( https://ai.studio/apps/1640d3d4-4c0d-46c1-949a-da43cead8156](https://biditext-rearrangeable.vercel.app/ )
