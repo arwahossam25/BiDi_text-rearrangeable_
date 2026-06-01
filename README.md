@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Text Formatter ✨
 
-# Run and deploy your AI Studio app
+Tired of reading messy Arabic-English mixed text?
 
-This contains everything you need to run your app locally.
+Finally, there's an easy solution.
 
-View your app in AI Studio: https://ai.studio/apps/1640d3d4-4c0d-46c1-949a-da43cead8156
+This lightweight tool uses Google AI Studio to organize and format your text into a clean, readable result in seconds.
 
-## Run Locally
+### How it works
+1. Copy your text.
+2. Paste it into the tool.
+3. Get a neatly formatted version instantly.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🚀 Try it now:
+[Live Preview]( https://ai.studio/apps/1640d3d4-4c0d-46c1-949a-da43cead8156)
