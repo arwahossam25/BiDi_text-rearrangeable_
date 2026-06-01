@@ -1,0 +1,6 @@
+{
+  "name": "Bidirectional Text Rearranger",
+  "description": "A utility to parse and rearrange mixed English and Arabic bidirectional text for seamless readability and proper alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
